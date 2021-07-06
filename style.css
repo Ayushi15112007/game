@@ -1,0 +1,54 @@
+*{
+    color:darkviolet;
+}
+
+*{
+    border: solid;
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    font-style: italic;
+    font-size: 20px;
+    justify-content: space-between;
+
+}
+
+.camel{
+    background-color: darkkhaki;
+    display:flex;
+    box-shadow: 5px- 5px;
+}
+
+.chameleon{
+    background-color: greenyellow;
+    display:flex;
+    box-shadow: 5px -5px;
+}
+
+.cicada{
+    background-color: lightsalmon;
+    display:flex;
+    box-shadow: 5px -5px;
+}
+
+.pigeon{
+    background-color: skyblue;
+    display:flex;
+    box-shadow: 5px -5px;
+
+}
+
+body{
+    background-color:#008080 ;
+}
+
+.cc{
+    background-color: darkkhaki;
+}
+
+.animals{
+    display:flex;
+    background-color: deepskyblue;
+}
